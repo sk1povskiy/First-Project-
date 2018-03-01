@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<base href="http://www.internet-technologies.ru/wp-content/uploads/pages/createMySite/" />
+	<title>Официальные сайт Sk1povskiy </title>
+	<meta name="description" content="Описание страницы" />
+	<meta name="keywords" content="Ключевые слова" />
+	<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+</head>
+<body> 
+	<div id="page">
+	<header>
+		<a href="/" title="" class="logo"><img src="images/logo.png" alt="Туристическое агентство" /></a>
+		<div class="Steam">https://steamcommunity.com/id/sk1povskiyofficial</div>
+		
+		<nav>
+			<ul id="top_menu">
+				<li><a href="index.html">О компании</a></li>
+				<li><a href="services.html">Наши услуги</a></li>
+				<li><a href="contacts.html">Контакты</a></li>
+			</ul>
+		</nav>
+		
+		<div class="header_img">
+		<img src="images/header_img.jpg" alt="AM игрок за команду "OctoGaming" " />
+		</div>
+	</header>
+ 
+	<section id="content">
+		<h1>You can know me as Sk1povskiy </h1>
+		<img src="images/content_img.jpg" alt="Картинка" class="float-right" />
+		<p>Официальный сайт игрока "Sk1povskiy" </p>
+	</section>
+	
+	<footer>
+	<a href="http://vk.com/sk1povskiy" title="VKontakte on Sk1povskiy">VKontakte on Sk1povskiy</a><br /> They talk about my spray
+	</footer>
+	</div>
+</body>
+</html>
